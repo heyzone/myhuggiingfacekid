@@ -1,1 +1,1 @@
-FROM ghcr.io/eooce/ws-2go:latest
+FROM docker.io/harrywujy/huggingfacekid:latest
